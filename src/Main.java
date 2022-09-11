@@ -12,7 +12,7 @@ public class Main {
     }
 
     public static void task1() {
-        int year = 2021;
+        int year = 2020;
         Year(year);
     }
 
